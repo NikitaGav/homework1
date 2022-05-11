@@ -1,0 +1,78 @@
+
+<!DOCTYPE html> 
+<html>
+    <head>
+
+
+    <h1>Heading</h1>
+    <body style="height: 100%; width: 100%; ">
+    
+    <title>Лучшый рецепт пасты, который вы когда либо пробовали! </title>
+    
+    <p>Паста карбонара</p>
+<img
+      src = "https://cdn.lifehacker.ru/wp-content/uploads/2018/03/carbonara_1522402099-e1522402156612-630x315.jpg"
+      alt = "паста" width = "600px" height="300px"/>
+
+      
+    </body>
+    </head>
+    <body>
+      <h1></h1>
+  <ol>Строчные теги
+    <li>b</li>
+    <li>span</li>
+    <li>big</li>
+    <li>mark</li>
+    <li>strong</li>
+    <li>em</li>
+  </ol>
+    </body>
+    <ol>блочные  теги
+        <li>заголовки h1 h2 h3.</li>
+        <li>body</li>
+        <li>div</li>
+        <li>p</li>
+      </ol>
+    </body>
+  </body>
+  <ol>
+      <li><p>Эпидемия</p></li>
+      <h> — прогрессирующее распространение инфекционного заболевания среди людей, значительно превышающее обычно регистрируемый на данной территории уровень заболеваемости и способное стать причиной чрезвычайной ситуации</h>
+      <li>Вирус</li>
+      <p>— неклеточный инфекционный агент, который может воспроизводиться только внутри клеток. Вирусы поражают все типы организмов, от растений и животных до бактерий и архей. Обнаружены также вирусы, способные реплицироваться только в присутствии других вирусов </p>
+      <li>Карантин</li>
+      <p>  — комплекс ограничительных и режимных противоэпидемических мероприятий, направленных на ограничение контактов инфицированного или подозреваемого в инфицированности лица, животного, груза, товара, транспортного средства, населённого пункта, территории, районов, областей и так далее</p> 
+
+    </ol>
+
+    <ol>Cсылки 
+      <li><a href="page2.html" target="_blank"> https://rozetka.com.ua/ua/ </a>.</li>
+      <li><a href="page2.html" target="_blank"> https://hotline.ua/</a></li>
+      <li><a href="page2.html" target="_blank"> https://www.foxtrot.com.ua/uk </a></li>
+    </ol>
+
+    <ul class="Продукты">
+      <span style="color: rgb(0, 255, 0);"><center>Яблоко</center></span>
+      <span style="color: rgb(217, 255, 0);"><center>Груша</center></span>
+      <span style="color: rgb(255, 0, 119);"><center>Малина</center></span>
+      <span style="color: rgb(42, 8, 97);"><center>Малина</center></span>
+      <span style="color: rgb(224, 168, 220);"><center>Йогурт</center></span>
+      <span style="color: rgb(196, 187, 66);"><center>Банан</center></span>
+    </ul>
+
+    <img
+    src = "https://vesti.ua/wp-content/uploads/2020/06/samye-vysokie-gory.jpg"
+    alt = "Hill" width = "350px" height="350px"/>
+
+   <ul>
+    <h1>The history of Nature</h1>
+    <h2><small>JANUARY 1, 2017</small></h2>
+    <h3><small>The. Three green lights nerb you their one</small></h3>
+    <h3><small>rule. Given above every gathered so</small></h3>
+    <h3><small>likness fowl...</small></h3>
+
+   </ul>
+
+  </body>
+</html>

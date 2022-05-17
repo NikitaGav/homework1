@@ -7,7 +7,7 @@
     <h1>Heading</h1>
     <body style="height: 100%; width: 100%; ">
     
-    <title>Лучшый рецепт пасты, который вы когда либо пробовали! </title>
+    <title>Homework(1) </title>
     
     <p>Паста карбонара</p>
 <img
@@ -61,18 +61,103 @@
       <span style="color: rgb(196, 187, 66);"><center>Банан</center></span>
     </ul>
 
-    <img
-    src = "https://vesti.ua/wp-content/uploads/2020/06/samye-vysokie-gory.jpg"
-    alt = "Hill" width = "350px" height="350px"/>
+<style> 
 
-   <ul>
-    <h1>The history of Nature</h1>
-    <h2><small>JANUARY 1, 2017</small></h2>
-    <h3><small>The. Three green lights nerb you their one</small></h3>
-    <h3><small>rule. Given above every gathered so</small></h3>
-    <h3><small>likness fowl...</small></h3>
+  div {
+    box-sizing: border-box
+  }
+  .wrapper {}
+  
+  .content {
+    padding: 0px;
+    width : 350px;
+    height : 500px;
+    box-shadow: 2px 2px 10px 5px rgb(134, 141, 141);
+      }
+  </style>
+<center>
+<div class="wrapper">
+    <div class="content"><img
+      src = "https://vesti.ua/wp-content/uploads/2020/06/samye-vysokie-gory.jpg"
+      alt = "Hill" width = "350px" height="250px"/>
+      <h1>The history of Nature</h1> 
+      <p>JANUARY 1, 2017</p>
+      <h3><small>The. Three green lights nerb you their one</small></h3>
+      <h3><small>rule. Given above every gathered so</small></h3>
+      <h3><small>likness fowl...</small></h3>
+</div>
+</center>
+</div>
 
-   </ul>
+<h1></h1> 
+<p></p>
+<h3><small></small></h3>
+<h3><small></small></h3>
+<h3><small></small></h3>
+
+<style> 
+
+  div {
+    box-sizing: border-box
+  }
+  .wrapper2 {}
+  
+  .content2 {
+    padding: 0px;
+    width : 350px;
+    height : 500px;
+    box-shadow: 2px 2px 10px 5px rgb(134, 141, 141);
+      }
+  </style>
+<center>
+<div class="wrapper2">
+    <div class="content2"><img
+      src = "http://loveopium.ru/content/2015/05/elbrus/17.jpg"
+      alt = "Hill" width = "350px" height="250px"/>
+      <h1>Here's is a Simple Trick</h1> 
+      <p>JANUARY 1, 2017</p>
+      <h3><small>First, them tree you're Was. Give</small></h3>
+      <h3><small>shall Unto earth above very one him</small></h3>
+      <h3><small>own fruit...</small></h3>
+</div>
+</center>
+</div>
+
+<h1></h1> 
+<p></p>
+<h3><small></small></h3>
+<h3><small></small></h3>
+<h3><small></small></h3>
+
+
+<style> 
+
+  div {
+    box-sizing: border-box
+  }
+  .wrapper {}
+  
+  .content {
+    padding: 0px;
+    width : 350px;
+    height : 500px;
+    box-shadow: 2px 2px 10px 5px rgb(134, 141, 141);
+      }
+  </style>
+<center>
+<div class="wrapper">
+    <div class="content"><img
+      src = "https://i.natgeofe.com/k/830b5d15-92db-429f-a80a-cc89b5700af5/mt-everest.jpg?w=636&h=437"
+      alt = "Hill" width = "350px" height="250px"/>
+      <h1>The history of Nature</h1> 
+      <p>JANUARY 1, 2017</p>
+      <h3><small>The. Three green lights nerb you their one</small></h3>
+      <h3><small>rule. Given above every gathered so</small></h3>
+      <h3><small>likness fowl...</small></h3>
+</div>
+</center>
+</div>
+
 
   </body>
 </html>
